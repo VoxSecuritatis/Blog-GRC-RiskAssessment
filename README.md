@@ -1,5 +1,7 @@
 # Understanding Risk Management, Risk Assessment, and Risk Treatment in Cybersecurity
 
+Date:  2025-02-26
+
 ## Introduction
 Risk management, risk assessment, and risk treatment are foundational components of cybersecurity. These concepts help organizations identify, analyze, and address potential threats that could impact the confidentiality, integrity, and availability of their information systems. This blog post explores these topics in detail, providing definitions, examples, and practical applications. A key feature of this discussion is the use of a risk matrix to visualize the relationship between the likelihood of an event and its potential impact.
 
